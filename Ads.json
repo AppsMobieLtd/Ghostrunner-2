@@ -3,22 +3,22 @@
   "quizes": [
 	{
 		
-	 "question": "how many pyramides are in egypte?",
+	 "question": "Which ability in Ghostrunner allows you to slow down time and move smoothly across the map?",
       
-	 "answer_1": "Three pyramides",
-	 "answer_2": "four pyramides",
-	 "answer_3": "five pyramides",
+	 "answer_1": "Sensory Boost",
+	 "answer_2": "Phantom Step",
+	 "answer_3": "Blink",
 	 
 	 "correct": 1
       
 	},
 	{
 	  
-	 "question": "What is Choo Choo Charles?",
+	 "question": "What is the most important tip in Ghostrunner?",
       
-	 "answer_1": "Spider Train",
-	 "answer_2": "Spider Man",
-	 "answer_3": "Spider Car",
+	 "answer_1": "Never stop moving",
+	 "answer_2": "Use Sensory Boost",
+	 "answer_3": "Move towards enemies at an angle",
 	 
 
 	 "correct": 1
@@ -26,11 +26,11 @@
 	},
 	{
 	  
-	 "question": "What is 1X Bet",
+	 "question": "What mode challenges you to kill all enemies in a level as fast as possible?",
       
-	 "answer_1": "A dating app",
-	 "answer_2": "A betting app",
-	 "answer_3": "A cooking app",
+	 "answer_1": "Time Attack",
+	 "answer_2": "Kill Run",
+	 "answer_3": "Survival",
 	 
 
 	 "correct": 2
@@ -38,11 +38,11 @@
 	},
 	{
 	  
-	 "question": "Which one doesn't belong to Poppy Playtime?",
+	 "question": "Why is it important to equip visibility upgrades in Ghostrunner?",
       
-	 "answer_1": "Huggy Wuggy",
-	 "answer_2": "Kissy Missy",
-	 "answer_3": "The Man From The Window",
+	 "answer_1": "To slow down time and move smoothly across the map",
+	 "answer_2": "To equip a grappling hook",
+	 "answer_3": "To see enemies more clearly",
 	 
 
 	 "correct": 3
@@ -50,11 +50,11 @@
 	},
 	{
 	  
-	 "question": "How many USLs does Real Madrid have?",
+	 "question": "Which of the following can help you avoid enemy attacks in Ghostrunner?",
       
-	 "answer_1": "13 Champions Leage",
-	 "answer_2": "12 Champions Leage",
-	 "answer_3": "14 Champions Leage",
+	 "answer_1": "Staying still",
+	 "answer_2": "Equipping better weapons",
+	 "answer_3": "Moving towards enemies at an angle",
 	 
 
 	 "correct": 3
@@ -62,13 +62,35 @@
 	},
 	{
 	 
-	 "question": "Which one is a programming language?",
+	 "question": "Which of the following is a tip for improving your combat skills in Ghostrunner?",
      
-	 "answer_1": "English",
-	 "answer_2": "Kotlin",
-	 "answer_3": "Arabic",
+	 "answer_1": "Use Blink to quickly reach enemies",
+	 "answer_2": "Use combos",
+	 "answer_3": "Equip Visibility Upgrades",
 	 
 	 "correct": 2
+      
+	},
+	  {
+	 
+	 "question": "What does Kill Run mode challenge you to do in Ghostrunner?",
+     
+	 "answer_1": "Avoid detection and sneak past enemies in a level",
+	 "answer_2": "Reach the end of a level before time runs out",
+	 "answer_3": "Kill all enemies in a level as fast as possible",
+	 
+	 "correct": 3
+      
+	},
+	  {
+	 
+	 "question": "Which of the following abilities in Ghostrunner allows you to quickly dodge attacks?",
+     
+	 "answer_1": "Phantom Step",
+	 "answer_2": "Sensory Boost",
+	 "answer_3": "Time Stop",
+	 
+	 "correct": 1
       
 	}
   ]  
