@@ -1,0 +1,168 @@
+{
+
+  "applovin_banner_id": "xxxxxx",
+  "applovin_interstitial_id": "xxxxxx",
+  "applovin_native_id": "xxxxxx",
+  "applovin_rewarded_id": "xxxxxx",
+  "max": true,
+  
+  "admob_banner": "xxxx",
+  "admob_interstitial": "xxxx",
+  "admob_native": "xxxx",
+  "admob_rewarded": "xxxx",
+
+  "yandex_banner_id": "R-M-2376521-1",
+  "yandex_interstitial_id": "R-M-2376521-3",
+  "yandex_native_id": "R-M-2376521-2",
+  "yandex_rewarded_id": "R-M-2376521-4",
+  
+  
+  "Ads Explanation": " applovin | admob | yandex ",
+
+  "Interstitial": "yandex",
+  "Banner": "yandex",
+  "Native": "yandex",
+  "Rewarded": "yandex",
+  
+  
+  "start_inter": true,
+  "gender_inter": false,
+  "setup_inter": true,
+  
+  
+  "onesignal_id": "xxxxxxx",
+  
+  
+  "show_quiz": true,
+  
+  "fore_answer_quiz": false,
+  
+  "fore_rate": true,
+  
+  "web_view_ad_blocker": false,
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  
+  "show_cpa": false,
+  "cpa_image": "https://drive.google.com/uc?export=download&id=13JTzqOlG5HPv6Oc8GmQd61tf_bxj8Vr2",
+  "cpa_url": "xxxx",
+  "cpa_button_text": "Get It Now!",
+  
+  
+  "rating_exit_popup": true,
+  
+  "make_user_change_theme": true,
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "show_app_1": false,
+  "app_icon_1": "xxxxxxx",
+  "app_title_1": "xxxxxxx",
+  "app_desc_1": "xxxxxxx",
+  "app_url_1": "xxxxxxx",
+  
+  "show_app_2": false,
+  "app_icon_2": "xxxxxxx",
+  "app_title_2": "xxxxxxx",
+  "app_desc_2": "xxxxxxx",
+  "app_url_2": "xxxxxxx",
+  
+  "show_app_3": false,
+  "app_icon_3": "xxxxxxx",
+  "app_title_3": "xxxxxxx",
+  "app_desc_3": "xxxxxxx",
+  "app_url_3": "xxxxxxx",
+
+
+  "guides": [
+	{
+	 "image": "https://drive.google.com/uc?export=download&id=1SUUF5LtBvQe9SB-XytE9Hizgq64bT2_-",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": false,
+	 "id": 1,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "xxxxxxx",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": true,
+	 "id": 2,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "xxxxxxx",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": false,
+	 "id": 3,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "xxxxxxx",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": true,
+	 "id": 4,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "xxxxxxx",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": false,
+	 "id": 5,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	},
+	{
+	 "image": "xxxxxxx",
+	 "title": "xxxxxxx",
+	 "text": "xxxxxxx",
+	 "text_two": "xxxxxxx",
+
+	 "isLocked": true,
+	 "id": 6,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+
+	}
+  ]  
+}
